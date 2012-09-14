@@ -408,6 +408,49 @@
                 blue: "Blue",
                 orange: "Orange"
             }
+        },
+	fr : {
+		font_styles: {
+			normal: "Text",
+			h1: "Titre 1",
+			h2: "Titre 2",
+			h3: "Titre 3"
+		},
+		emphasis: {
+			bold: "Gras",
+			italic: "Italique",
+			underline: "Souligné"
+		},
+		lists: {
+			unordered: "Liste non ordonnée",
+			ordered: "Liste ordonnée",
+			outdent: "Diminuer le retrait",
+			indent: "Augmenter le retrait"
+		},
+		link: {
+			insert: "Inserer un lien",
+			cancel: "Annuler"
+		},
+		image: {
+			insert: "Inserer une image",
+			cancel: "Annuler"
+		},
+		html: {
+			edit: "Editer le HTML"
+		},
+		colours: {
+			black: "Noir",
+			silver: "Argent",
+			gray: "Gris",
+			maroon: "Maron",
+			red: "Rouge",
+			purple: "Violet",
+			green: "Vert",
+			olive: "Olive",
+			navy: "Bleu Marine",
+			blue: "Bleu",
+			orange: "Orange"
+		}
         }
     };
 
